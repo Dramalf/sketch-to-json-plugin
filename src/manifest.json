@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "导出为json",
+      "identifier": "sketch-to-json-plugin.to-json-identifier",
+      "script": "./toJson.js"
+    }
+  ],
+  "menu": {
+    "title": "🌠星河sketch",
+    "items": [
+      "sketch-to-json-plugin.to-json-identifier"
+    ]
+  }
+}
