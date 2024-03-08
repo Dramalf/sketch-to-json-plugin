@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "导出为json",
+      "identifier": "sketch-to-json-plugin.to-json-identifier",
+      "script": "__toJson.js"
+    }
+  ],
+  "menu": {
+    "title": "🌠星河sketch",
+    "items": [
+      "sketch-to-json-plugin.to-json-identifier"
+    ]
+  },
+  "version": "0.1.0",
+  "description": "",
+  "name": "🌠星河sketch",
+  "identifier": "🌠星河sketch",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "山杉",
+  "authorEmail": "shanshan.mlf@alibaba-inc.com"
+}
