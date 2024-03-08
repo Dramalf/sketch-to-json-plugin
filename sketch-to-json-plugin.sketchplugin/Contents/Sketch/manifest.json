@@ -9,17 +9,17 @@
     }
   ],
   "menu": {
-    "title": "🌠星河sketch",
+    "title": "🌠2Json",
     "items": [
       "sketch-to-json-plugin.to-json-identifier"
     ]
   },
   "version": "0.1.0",
   "description": "",
-  "name": "🌠星河sketch",
-  "identifier": "🌠星河sketch",
+  "name": "🌠2Json",
+  "identifier": "🌠2Json",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
-  "author": "山杉",
-  "authorEmail": "shanshan.mlf@alibaba-inc.com"
+  "author": "dramalf",
+  "authorEmail": "dramalfcsc@gmail.com"
 }
