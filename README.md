@@ -12,7 +12,8 @@ _This plugin was created using `skpm`. For a detailed explanation on how things 
 
 ### Usage
 Basicly, select a group of items and then use this plugin to convert this group into a JSON file
-![image](https://github.com/Dramalf/sketch-to-json-plugin/assets/43701793/f6ce33b6-db2b-42b7-9297-44076894c63b)
+![image](https://github.com/Dramalf/sketch-to-json-plugin/assets/43701793/eb65214d-7c40-4298-a749-64acd67942c9)
+
 
 Moreover,you can add a `_pic` suffix after non-image elements, and the exported JSON will add a url attribute for that element, containing the base64 image information of the element.
 ![image](https://github.com/Dramalf/sketch-to-json-plugin/assets/43701793/cd675cae-714c-4e10-9a31-bb9b5b5029d6)
